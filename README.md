@@ -2,6 +2,19 @@
 
 Fenrir Security Dashboard is a cutting-edge B2B SaaS platform designed to provide a seamless and intuitive interface for managing cybersecurity scans, findings, and logs. Built with modern technologies like React, Vite, and Tailwind CSS, this dashboard ensures high performance, responsiveness, and a delightful user experience.
 
+## Live Demo
+
+Experience the live application here:
+
+[Live Demo](https://fenrir-security-three.vercel.app/)
+
+## Video Walkthrough
+
+Watch a detailed walkthrough of the application:
+
+[Watch on Loom](https://drive.google.com/file/d/127dlt2080rSxEQAXxFNA-Px1T--jrpGE/view?usp=sharing)
+
+
 ## Key Features
 
 - **Fully Implemented Screens**: Login, Dashboard, and Scan Detail pages.
@@ -11,6 +24,17 @@ Fenrir Security Dashboard is a cutting-edge B2B SaaS platform designed to provid
 - **Reusable Components**: Includes `Button`, `SeverityBadge`, `StatusChip`, `ProgressBar`, `ThemeToggle`, and more.
 - **Mock Data Integration**: Preloaded mock data for scans, findings, and logs.
 - **Vercel Deployment Ready**: Configured for seamless deployment with SPA routing.
+
+## Screenshots
+
+Showcase the application with the following screenshots:
+
+- **Login Page**:
+  ![Login Page](https://github.com/pawan09032004/fenrir-security/blob/e69c6ecf89f4740f4da2812e4c55f19ce41640ae/fenrir-security/Screenshot%202026-03-04%20010453.png)
+- **Dashboard**:
+  ![Dashboard](https://github.com/pawan09032004/fenrir-security/blob/e69c6ecf89f4740f4da2812e4c55f19ce41640ae/fenrir-security/Screenshot%202026-03-04%20010537.png)
+- **Scan Detail**:
+  ![Scan Detail](https://github.com/pawan09032004/fenrir-security/blob/e69c6ecf89f4740f4da2812e4c55f19ce41640ae/fenrir-security/Screenshot%202026-03-04%20010555.png)
 
 ## Tech Stack
 
@@ -86,22 +110,13 @@ The `vercel.json` file is pre-configured to handle SPA routing.
 | `medium`   | `#EAB308` | Medium severity              |
 | `low`      | `#22C55E` | Low severity / completed     |
 
-## Video Walkthrough
 
-Watch a detailed walkthrough of the application:
+## Contact
 
-[Watch on Loom](https://loom.com/share/example-link)
-
-## Live Demo
-
-Experience the live application here:
-
-[Live Demo](https://fenrir-security-three.vercel.app/)
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+If you have any questions or feedback, feel free to reach out:
+Author: Pawan Meena
+Email: pawanjorwal0903@gmail.com
+LinkedIn: https://www.linkedin.com/in/pawanmeena-tech/
 
 ---
 
-Built with ❤️ by the Fenrir Security team.
