@@ -1,6 +1,6 @@
 # Fenrir Security Dashboard
 
-Fenrir Security Dashboard is a cutting-edge B2B SaaS platform designed to provide a seamless and intuitive interface for managing cybersecurity scans, findings, and logs. Built with modern technologies like React, Vite, and Tailwind CSS, this dashboard ensures high performance, responsiveness, and a delightful user experience.
+Fenrir Security Dashboard is a platform designed to provide a seamless and intuitive interface for managing cybersecurity scans, findings, and logs. Built with React, Vite, and Tailwind CSS, this dashboard ensures high performance, responsiveness, and a delightful user experience.
 
 ## Live Demo
 
@@ -84,31 +84,6 @@ src/
 │   └── ScanDetail.jsx         # Detailed view of active scans and findings
 └── App.jsx                    # Application entry point with routing and theme provider
 ```
-
-## Deployment
-
-Deploy the application to Vercel in just a few steps:
-
-1. Install the Vercel CLI globally:
-   ```bash
-   npm i -g vercel
-   ```
-2. Deploy the project:
-   ```bash
-   vercel --prod
-   ```
-
-The `vercel.json` file is pre-configured to handle SPA routing.
-
-## Color Design System
-
-| Token      | Hex       | Usage                        |
-|------------|-----------|------------------------------|
-| `primary`  | `#0CC8A8` | CTAs, active states, progress |
-| `critical` | `#EF4444` | Critical severity            |
-| `high`     | `#F97316` | High severity                |
-| `medium`   | `#EAB308` | Medium severity              |
-| `low`      | `#22C55E` | Low severity / completed     |
 
 
 ## Contact
