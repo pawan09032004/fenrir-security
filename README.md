@@ -91,7 +91,7 @@ The `vercel.json` file is pre-configured to handle SPA routing.
 Showcase the application with the following screenshots:
 
 - **Login Page**:
-  ![Login Page](path/to/login-screenshot.png)
+  ![Login Page](fenrir-security/Screenshot 2026-03-04 010453.png)
 - **Dashboard**:
   ![Dashboard](path/to/dashboard-screenshot.png)
 - **Scan Detail**:
