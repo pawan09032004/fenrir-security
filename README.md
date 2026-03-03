@@ -96,7 +96,7 @@ Watch a detailed walkthrough of the application:
 
 Experience the live application here:
 
-[Live Demo](https://example-vercel-url.com)
+[Live Demo](https://fenrir-security-three.vercel.app/)
 
 ## License
 
