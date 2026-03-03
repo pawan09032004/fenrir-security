@@ -86,17 +86,6 @@ The `vercel.json` file is pre-configured to handle SPA routing.
 | `medium`   | `#EAB308` | Medium severity              |
 | `low`      | `#22C55E` | Low severity / completed     |
 
-## Screenshots
-
-Showcase the application with the following screenshots:
-
-- **Login Page**:
-  ![Login Page](fenrir-security/Screenshot 2026-03-04 010453.png)
-- **Dashboard**:
-  ![Dashboard](path/to/dashboard-screenshot.png)
-- **Scan Detail**:
-  ![Scan Detail](path/to/scan-detail-screenshot.png)
-
 ## Video Walkthrough
 
 Watch a detailed walkthrough of the application:
